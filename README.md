@@ -1,3 +1,16 @@
+
+untuk yang heroku ERROR 500, tapi untuk local sudah bisa.
+database sudah menggunakan heroku postgresql
+
+link heroku
+https://test-plexus.herokuapp.com/
+
+link git heroku
+https://git.heroku.com/test-plexus.git
+
+link postman
+https://www.postman.com/solar-astronaut-400185/workspace/220fcc24-0bca-49f8-bb8f-30cc5e2aac87/collection/23418266-3c23624d-1dc8-4161-86d0-5126bbd13769?action=share&creator=23418266
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,4 +77,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# test-plaxus
+# test-plexus
+
+
+
+
+
+
