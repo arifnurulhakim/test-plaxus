@@ -41,4 +41,24 @@ class User extends Authenticatable
     protected $casts = [
         'email_verified_at' => 'datetime',
     ];
+
+    public function resetCode()
+    {
+        return $this->hasOne(ResetCode::class);
+    }
+
+    public function playerStatus()
+    {
+        return $this->hasOne(PlayerStatus::class);
+    }
+
+    public function playerAchievement()
+    {
+        return $this->hasOne(PlayerAchievement::class);
+    }
+
+    public function inventories()
+    {
+        return $this->hasMany(Inventory::class);
+    }
 }
