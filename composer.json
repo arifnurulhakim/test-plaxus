@@ -38,12 +38,12 @@
     },
     "scripts": {
         "post-install-cmd": [
+            "composer update",
             "php artisan clear-compiled",
             "php artisan config:cache",
             "php artisan cache:clear",
             "php artisan route:clear",
             "php artisan optimize",
-            "composer update",
             "chmod -R 775 public/"
         ],
         "post-autoload-dump": [
