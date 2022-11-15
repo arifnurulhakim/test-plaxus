@@ -43,6 +43,7 @@
             "php artisan cache:clear",
             "php artisan route:clear",
             "php artisan optimize",
+            "composer install",
             "chmod -R 775 public/"
         ],
         "post-autoload-dump": [
