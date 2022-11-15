@@ -38,7 +38,7 @@
     },
     "scripts": {
         "post-install-cmd": [
-            "composer update",
+            
             "php artisan clear-compiled",
             "php artisan config:cache",
             "php artisan cache:clear",
