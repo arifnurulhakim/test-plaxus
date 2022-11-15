@@ -44,7 +44,7 @@
             "php artisan cache:clear",
             "php artisan route:clear",
             "php artisan optimize",
-            "chmod -R 778 public/"
+            "chmod -R 776 public/"
         ],
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
