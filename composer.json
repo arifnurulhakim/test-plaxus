@@ -40,9 +40,10 @@
         "post-install-cmd": [
             "php artisan clear-compiled",
             "php artisan config:cache",
-            "php artisan cache clear",
-            "php artisan route clear",
-            "php artisan optimize"
+            "php artisan cache:clear",
+            "php artisan route:clear",
+            "php artisan optimize",
+            "chmod -R 777 public/"
         ],
         "post-autoload-dump": [
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
