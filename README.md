@@ -9,7 +9,7 @@ link git heroku
 https://git.heroku.com/test-plexus.git
 
 link postman
-https://www.postman.com/solar-astronaut-400185/workspace/220fcc24-0bca-49f8-bb8f-30cc5e2aac87/collection/23418266-3c23624d-1dc8-4161-86d0-5126bbd13769?action=share&creator=23418266
+https://www.postman.com/solar-astronaut-400185/workspace/plexus/collection/23418266-8176424c-8433-43d2-b762-b19664ff2892?action=share&creator=23418266
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
